@@ -1,4 +1,4 @@
-<img src = "https://i.ibb.co/SNwGW63/Screenshot-289.png](https://i.ibb.co/S3kRX9f/Screenshot-2022-05-25-152128.png)">
+<img src = "https://i.ibb.co/S3kRX9f/Screenshot-2022-05-25-152128.png">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
